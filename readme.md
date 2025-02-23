@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm karthick raja</h1>
 <h3 align="center">I love built tech that functionally beautiful!!</h3>
 
-- 🌱 I’m currently learning **Reactjs,Nextjs**
+- 🌱 I’m currently learning **Reactjs,Nextjs,redux**
 
 - 📫 How to reach me **karthicollege@gmail.com**
 
