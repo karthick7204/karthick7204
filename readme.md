@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm karthick raja<br>I love built tech that functionally beautiful!!<br>🌱 I’m currently exploring backend development<br>📫 How to reach me karthickanandaraj12@gmail.om
+Hi 👋, I'm karthick raja<br>I love built tech that functionally beautiful!!<br>🌱 I’m currently exploring backend development<br>📫 How to reach me karthickanandaraj12@gmail.com
 
 
 ## 🌐 Socials:
