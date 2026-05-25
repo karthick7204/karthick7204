@@ -33,20 +33,6 @@ I love building tech that is functionally beautiful!!
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick7204&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=karthick7204&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-## 📈 Contribution Graph
-[![Karthick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthick7204&theme=tokyo-night)](https://github.com/karthick7204)
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
