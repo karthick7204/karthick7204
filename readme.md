@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Hi 👋, I'm Karthick Raja  
 I love building tech that is functionally beautiful!!  
@@ -7,8 +6,8 @@ I love building tech that is functionally beautiful!!
 
 ---
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthick7204) 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karthick7204)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/a-karthick-raja)
 
 ---
@@ -26,15 +25,57 @@ I love building tech that is functionally beautiful!!
 
 ---
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=karthick7204&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)
-
-![](https://streak-stats.demolab.com?user=karthick7204&theme=tokyonight&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick7204&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+# 🚀 Currently Learning:
+- Backend Development
+- REST APIs
+- Authentication Systems
+- Database Design
+- Scalable Web Applications
 
 ---
 
-<!-- Proudly created and customized by Karthick Raja -->
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=karthick7204&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![](https://streak-stats.demolab.com?user=karthick7204&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=karthick7204&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+# 📈 Contribution Graph
+
+[![Karthick Raja's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karthick7204&bg_color=0d1117&color=58a6ff&line=38bdae&point=fafafa&area=true&hide_border=true)](https://github.com/karthick7204)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=karthick7204&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+# 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=karthick7204&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=karthick7204&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+<div align="center">
+
+### Show some ❤️ by starring repositories you like!
+
+</div>
